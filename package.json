@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --ext .tsx,.ts, packages/server/src packages/web/src",
+    "lint": "eslint --ext .tsx,.ts, packages/server/src packages/web/src"
   },
   "husky": {
     "hooks": {
