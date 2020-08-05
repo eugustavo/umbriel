@@ -58,7 +58,7 @@
     "@types/prismjs": "1.16.1",
     "@types/react-modal": "3.10.6",
     "@types/react-router-dom": "5.1.5",
-    "@types/react-select": "3.0.14",
+    "@types/react-select": "3.0.16",
     "@types/styled-components": "5.1.1",
     "@types/yup": "0.29.3",
     "@typescript-eslint/eslint-plugin": "3.6.1",
